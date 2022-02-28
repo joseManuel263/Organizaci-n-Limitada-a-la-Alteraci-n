@@ -1,1 +1,1 @@
-# Organizaci-n-Limitada-a-la-Alteraci-n
+Organización Limitada a la Alteración

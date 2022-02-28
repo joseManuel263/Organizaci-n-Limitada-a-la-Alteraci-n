@@ -1,0 +1,32 @@
+h1{
+    color: #000000;
+    background-color: #8A2BE2;
+    font-family: cursive;
+    font-size: 2.55em;
+}
+
+h2{
+    color: #000000;
+    background-color: #BD87BB;
+}
+
+p{
+    font-family: cursive;
+    font-size: 1.25em;
+    background-color: #58C3BB;
+    text-align: justify;
+}
+
+.bod{
+    background-color: #6495ED;
+    justify-content: space-between;
+}
+
+.menu{
+    background-color: #A9A9A9;
+}
+
+.menu a{
+    margin-left: 500px;
+    font-size: 1.5em;
+}
